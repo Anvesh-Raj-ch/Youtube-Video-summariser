@@ -19,3 +19,7 @@ cd your-repo-name
 - **To run the Streamlit app:**
   ```bash
   streamlit run app.py
+
+# 
+Reference
+For more information on generating the Groq API key, please visit the Groq API documentation.
