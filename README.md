@@ -22,4 +22,4 @@ cd your-repo-name
 
 # 
 Reference
-For more information on generating the Groq API key, please visit the Groq API documentation.
+For more information on generating the Groq API key, please visit the [Groq API documentation](https://console.groq.com/docs/text-chat).
